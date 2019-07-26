@@ -1,1 +1,1 @@
-<a href="https://raw.githubusercontent.com/nmdn/man/master/a.jpg"></a>
+https://github.com/nmdn/man/blob/master/a.jpg
